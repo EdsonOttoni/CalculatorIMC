@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalculatorIMC</string>
+    <string name="seekBar_txt_height">Altura</string>
+    <string name="seekBar_txt_weight">Peso</string>
+    <string name="textView_age">Idade</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="number_zero">0</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="seta_de_continuação">seta  de continuação</string>
+
+</resources>
